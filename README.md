@@ -1,4 +1,4 @@
-# Online Marketing-Analytics
+# Online Marketing-Analytics(SQL + PYTHON + POWERBI)
 
 ## Overview
 This project analyzes key marketing metrics, including conversion rates, customer engagement, and feedback scores, to identify trends and opportunities for improvement. The data reveals seasonal fluctuations, content performance, and areas where customer satisfaction can be enhanced.
