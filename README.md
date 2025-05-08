@@ -5,7 +5,7 @@ This project analyzes key marketing metrics, including conversion rates, custome
 
 ## Key Findings
 
-[project repository](https://github.com/your-repo-link)
+
 
 ### Overview
 
@@ -60,6 +60,43 @@ Throughout the year, conversion rates showed significant variability:
 - **Analysis**: Strong seasonal demand combined with effective marketing campaigns drove this outstanding performance
 
 
+# Social Media Analysis
+
+## Viewership Trends
+- **Peak Period**: January - August (highest views)
+- **Decline**: Steady decrease from September onward
+- **Implication**: Reduced audience engagement in Q3/Q4 suggests potential seasonal factors or content fatigue
+
+## Interaction Metrics
+| Metric       | Observation                          | Recommendation                     |
+|--------------|--------------------------------------|------------------------------------|
+| Clicks       | Low relative to views                | Strengthen CTAs in high-view content |
+| Likes        | Disproportionately low vs. views     | Test more interactive content formats |
+
+## Content Performance Breakdown
+1. **Top Performing**:
+   - 📝 **Blog Content** 
+     - Peak months: April & July
+     - Recommended action: Double down on successful blog strategies
+
+2. **Secondary Performers**:
+   - 📱 Social Media Content
+   - ▶️ Video Content
+
+
+# Customer Review
+
+![Customer Review](https://github.com/Olajes/Marketing-Analytics/blob/f8a1e617066d14d2b9532b78d092454c465a1e6c/Customer%20Review%20Detail.JPG)
+
+## Customer Ratings Distribution:
+The majority of customer reviews are in the higher ratings, with 140 reviews at 4 stars and 135 reviews at 5 stars, indicating overall positive feedback. Lower ratings (1-2 stars) account for a smaller proportion, with 26 reviews at 1 star and 57 reviews at 2 stars.
+## Sentiment Analysis:
+Positive sentiment dominates with 275 reviews, reflecting a generally satisfied customer base. Negative sentiment is present in 82 reviews, with a smaller number of mixed and neutral sentiments, suggesting some areas for improvement but overall strong customer approval.
+## Opportunity for Improvement:
+The presence of mixed positive and mixed negative sentiments suggests that there are opportunities to convert those mixed experiences into more clearly positive ones, potentially boosting overall ratings. Addressing the specific concerns in mixed reviews could elevate customer satisfaction.
+
+
+
 ## Goals & Actions
 
 ### 1. Increase Conversion Rates
@@ -86,7 +123,18 @@ Throughout the year, conversion rates showed significant variability:
 - **Engagement**: CTR = 19.66%; blog content drove most views.
 - **Sentiment**: 275 positive, 82 negative reviews.
 
-## Next Steps
-- Develop seasonal marketing plans.
-- A/B test content strategies.
-- Prioritize fixes for products with ratings below 3.5.
+## 📁 Features
+
+- Filterable by **year, month, and product**
+- Visual representation of customer journey: Views → Clicks → Purchases
+- Conversion trends across time and product categories
+- Product rating analysis
+
+---
+
+## 🛠️ Technologies Used
+- SQL(Microsoft Server Management studio)
+- Python
+- Vs code
+- Power BI (Dashboard & Visualizations)
+- DAX & Power Query (Data transformation)
